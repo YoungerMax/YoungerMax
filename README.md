@@ -1,7 +1,7 @@
 ## 👉 About me
 - Languages: English, (learning) Mandarin
 - Computing languages: Java, Python, Go, HTML, CSS, JavaScript, (learning) C/C++
-- I'm a sohpomore in High School
+- I'm a senior in High School
 
 ## 👉 Languages
 
