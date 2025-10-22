@@ -21,8 +21,6 @@
 
 ## 👉 GitHub Presence
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YoungerMax&theme=onedark_duo)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoungerMax&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungerMax&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungerMax&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungerMax&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
