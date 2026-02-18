@@ -32,11 +32,7 @@
 
 ## Latest Blog Posts
 
-- 🗃 [**Optimizing engagement on a Minecraft server using behavioral psychology**](https://lincolnmaxwell.com/p/economic-mc-findings/) - How I engineered a Minecraft survival server that keeps players engaged for hours by combining smart infrastructure choices with behavioral psychology and incentive design.
-- 🗜 [**February 8, 2026 update to Lincoln's Minecraft server**](https://lincolnmaxwell.com/p/economic-mc-update-02082026/) - The winner of this week's build challenge, updates, bug fixes, the state of the server, and the future of the server.
-- 📚 [**Quick Start: Lincoln's Minecraft server**](https://lincolnmaxwell.com/p/economic-mc-quick-start/) - A survival guide for Lincoln's economy server. Learn the rules of the land, how to climb the leaderboards, and building a shop to earn money.
-- 🔑 [**Clustering 142K HackerNews posts from 2025 and other findings**](https://lincolnmaxwell.com/p/clustering-hackernews-2025/) - I created an interactive clustering visualization of 142K+ posts from HackerNews that were posted this past year and analyzed other parts of the dataset.
-- 🎮 [**Who is Lincoln Maxwell?**](https://lincolnmaxwell.com/p/about-me/) - Here's my mandatory 'about me.'
+{latest_blog_posts}
 
 ## Connect
 
