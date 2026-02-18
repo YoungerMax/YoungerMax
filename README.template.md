@@ -1,7 +1,5 @@
 # Lincoln Maxwell
 
-📍 **Greater Boston**
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
@@ -14,9 +12,18 @@
 ![macOS](https://img.shields.io/badge/-Arch%20Linux-0062D3?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-> 🚀 **[gograntly.org](https://gograntly.org/)** (closed source) - find grants you're eligible for completely autonomously
+{about_me}
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-lincolnmaxwell.com-4f39f6?style=for-the-badge&logo=blogger&logoColor=white)](https://lincolnmaxwell.com)
+[![Twitter](https://img.shields.io/badge/-@_lincolnmaxwell-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_lincolnmaxwell)
+[![YouTube](https://img.shields.io/badge/-@lincoln_maxwell-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@steipete)
+[![GitHub](https://img.shields.io/badge/-YoungerMax-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoungerMax)
 
 ## Featured Projects
+
+> 🚀 **[gograntly.org](https://gograntly.org/)** (closed source) - find grants you're eligible for completely autonomously
 
 - 🗄️ [flexorm](https://github.com/YoungerMax/flexorm) - define your database schema and "compile" to a native client with auto validation, migrations, & data viewer
 - 🧱 [eaglercraft-v2](https://github.com/YoungerMax/eaglercraft-v2) - land claims, economy, shops and more in this Minecraft survival server network
@@ -33,12 +40,6 @@
 ## Latest Blog Posts
 
 {latest_blog_posts}
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@_lincolnmaxwell-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_lincolnmaxwell)
-[![YouTube](https://img.shields.io/badge/-@lincoln_maxwell-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@steipete)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoungerMax)
 
 ## Recognition
 

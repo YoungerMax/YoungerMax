@@ -61,6 +61,13 @@ def format_recent_blog_posts(posts: List[Post]) -> str:
 
     return '\n'.join(lines)
 
+def format_about_me(posts: List[Post]) -> str:
+    for post in posts:
+        if post.link == 'https://lincolnmaxwell.com/p/about-me/':
+            return post.content
+    
+    raise LookupError('about me post not found')
+
 posts = get_posts()
 
 with open('README.template.md', 'rt') as template_reader:
@@ -68,6 +75,7 @@ with open('README.template.md', 'rt') as template_reader:
 
     output = template.format_map({
         'latest_blog_posts': format_recent_blog_posts(posts),
+        'about_me': format_about_me(posts)
     })
 
     print(output)
