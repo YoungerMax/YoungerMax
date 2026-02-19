@@ -14,18 +14,15 @@
 
 {about_me}
 
-## Connect
+## Latest Blog Posts
 
-[![Website](https://img.shields.io/badge/-lincolnmaxwell.com-4f39f6?style=for-the-badge&logo=blogger&logoColor=white)](https://lincolnmaxwell.com)
-[![Twitter](https://img.shields.io/badge/-@_lincolnmaxwell-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_lincolnmaxwell)
-[![YouTube](https://img.shields.io/badge/-@lincoln_maxwell-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@steipete)
-[![GitHub](https://img.shields.io/badge/-YoungerMax-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoungerMax)
+{latest_blog_posts}
 
 ## Featured Projects
 
 > 🚀 **[gograntly.org](https://gograntly.org/)** (closed source) - find grants you're eligible for completely autonomously
 
-- 🗄️ [flexorm](https://github.com/YoungerMax/flexorm) - define your database schema and "compile" to a native client with auto validation, migrations, & data viewer
+- 🗄️ [flexorm](https://github.com/YoungerMax/flexorm) - define your database schema and "compile" it to a native client with auto validation, migrations, & data viewer
 - 🧱 [eaglercraft-v2](https://github.com/YoungerMax/eaglercraft-v2) - land claims, economy, shops and more in this Minecraft survival server network
 - 🔄 [jar-remapper](https://github.com/pocolifo/jar-remapper) - library for remapping and deobfuscating Java JAR files
 - 🔐 [obfuscator](https://github.com/pocolifo/obfuscator) - just works Java bytecode obfuscator with novel obfuscation techniques
@@ -37,9 +34,12 @@
 - 💰 [chip](https://github.com/YoungerMax/chip) - Stack Overflow but with crytocurrency bounties anyone add to
 - ⏱️ [timelapse](https://github.com/YoungerMax/timelapse) - record timelapses of your coding sessions
 
-## Latest Blog Posts
+## Connect
 
-{latest_blog_posts}
+[![Website](https://img.shields.io/badge/-lincolnmaxwell.com-4f39f6?style=for-the-badge&logo=blogger&logoColor=white)](https://lincolnmaxwell.com)
+[![Twitter](https://img.shields.io/badge/-@_lincolnmaxwell-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_lincolnmaxwell)
+[![YouTube](https://img.shields.io/badge/-@lincoln_maxwell-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@steipete)
+[![GitHub](https://img.shields.io/badge/-YoungerMax-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoungerMax)
 
 ## Recognition
 

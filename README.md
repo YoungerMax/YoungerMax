@@ -24,18 +24,20 @@ Hey! It's great to (digitally) meet you. Here's a few facts about me:
 
 Feel free to contact me via [email](mailto:me@lincolnmaxwell.com) or [GitHub](https://github.com/YoungerMax)!
 
-## Connect
+## Latest Blog Posts
 
-[![Website](https://img.shields.io/badge/-lincolnmaxwell.com-4f39f6?style=for-the-badge&logo=blogger&logoColor=white)](https://lincolnmaxwell.com)
-[![Twitter](https://img.shields.io/badge/-@_lincolnmaxwell-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_lincolnmaxwell)
-[![YouTube](https://img.shields.io/badge/-@lincoln_maxwell-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@steipete)
-[![GitHub](https://img.shields.io/badge/-YoungerMax-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoungerMax)
+- 💿 [**An IP address is worth 1,000 words**](https://lincolnmaxwell.com/p/an-ip-address-is-worth-1000-words/) - The few forgettable bytes that is an IP address have implications greater than we remind ourselves, and it can tell us stories much greater than we think of at first.
+- 🗃 [**Optimizing engagement on a Minecraft server using behavioral psychology**](https://lincolnmaxwell.com/p/economic-mc-findings/) - How I engineered a Minecraft survival server that keeps players engaged for hours by combining smart infrastructure choices with behavioral psychology and incentive design.
+- 🗜 [**February 8, 2026 update to Lincoln's Minecraft server**](https://lincolnmaxwell.com/p/economic-mc-update-02082026/) - The winner of this week's build challenge, updates, bug fixes, the state of the server, and the future of the server.
+- 📚 [**Quick Start: Lincoln's Minecraft server**](https://lincolnmaxwell.com/p/economic-mc-quick-start/) - A survival guide for Lincoln's economy server. Learn the rules of the land, how to climb the leaderboards, and building a shop to earn money.
+- 🔑 [**Clustering 142K HackerNews posts from 2025 and other findings**](https://lincolnmaxwell.com/p/clustering-hackernews-2025/) - I created an interactive clustering visualization of 142K+ posts from HackerNews that were posted this past year and analyzed other parts of the dataset.
+- 🎮 [**Who is Lincoln Maxwell?**](https://lincolnmaxwell.com/p/about-me/) - Here's my mandatory 'about me.'
 
 ## Featured Projects
 
 > 🚀 **[gograntly.org](https://gograntly.org/)** (closed source) - find grants you're eligible for completely autonomously
 
-- 🗄️ [flexorm](https://github.com/YoungerMax/flexorm) - define your database schema and "compile" to a native client with auto validation, migrations, & data viewer
+- 🗄️ [flexorm](https://github.com/YoungerMax/flexorm) - define your database schema and "compile" it to a native client with auto validation, migrations, & data viewer
 - 🧱 [eaglercraft-v2](https://github.com/YoungerMax/eaglercraft-v2) - land claims, economy, shops and more in this Minecraft survival server network
 - 🔄 [jar-remapper](https://github.com/pocolifo/jar-remapper) - library for remapping and deobfuscating Java JAR files
 - 🔐 [obfuscator](https://github.com/pocolifo/obfuscator) - just works Java bytecode obfuscator with novel obfuscation techniques
@@ -47,13 +49,12 @@ Feel free to contact me via [email](mailto:me@lincolnmaxwell.com) or [GitHub](ht
 - 💰 [chip](https://github.com/YoungerMax/chip) - Stack Overflow but with crytocurrency bounties anyone add to
 - ⏱️ [timelapse](https://github.com/YoungerMax/timelapse) - record timelapses of your coding sessions
 
-## Latest Blog Posts
+## Connect
 
-- 🗃 [**Optimizing engagement on a Minecraft server using behavioral psychology**](https://lincolnmaxwell.com/p/economic-mc-findings/) - How I engineered a Minecraft survival server that keeps players engaged for hours by combining smart infrastructure choices with behavioral psychology and incentive design.
-- 🗜 [**February 8, 2026 update to Lincoln's Minecraft server**](https://lincolnmaxwell.com/p/economic-mc-update-02082026/) - The winner of this week's build challenge, updates, bug fixes, the state of the server, and the future of the server.
-- 📚 [**Quick Start: Lincoln's Minecraft server**](https://lincolnmaxwell.com/p/economic-mc-quick-start/) - A survival guide for Lincoln's economy server. Learn the rules of the land, how to climb the leaderboards, and building a shop to earn money.
-- 🔑 [**Clustering 142K HackerNews posts from 2025 and other findings**](https://lincolnmaxwell.com/p/clustering-hackernews-2025/) - I created an interactive clustering visualization of 142K+ posts from HackerNews that were posted this past year and analyzed other parts of the dataset.
-- 🎮 [**Who is Lincoln Maxwell?**](https://lincolnmaxwell.com/p/about-me/) - Here's my mandatory 'about me.'
+[![Website](https://img.shields.io/badge/-lincolnmaxwell.com-4f39f6?style=for-the-badge&logo=blogger&logoColor=white)](https://lincolnmaxwell.com)
+[![Twitter](https://img.shields.io/badge/-@_lincolnmaxwell-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_lincolnmaxwell)
+[![YouTube](https://img.shields.io/badge/-@lincoln_maxwell-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@steipete)
+[![GitHub](https://img.shields.io/badge/-YoungerMax-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoungerMax)
 
 ## Recognition
 
